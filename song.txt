@@ -5,3 +5,9 @@ orkestra
 
 step be step
 mama mama stefania
+<<<<<<< HEAD
+=======
+kalush  orkestra
+finish
+----------------
+>>>>>>> 3c09059c7f288c2aa8d3f8ffae0e87a476775693
